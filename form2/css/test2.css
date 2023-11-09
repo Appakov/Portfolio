@@ -1,0 +1,12 @@
+.blok{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+img{
+    width: 550px;
+    
+}
+body{
+    background-color: black;
+}
